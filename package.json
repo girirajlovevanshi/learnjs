@@ -1,0 +1,11 @@
+{
+  "name": "learnjs",
+  "version": "1.0.0",
+  "description": "JS pratical learning",
+  "main": "06array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
